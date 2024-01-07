@@ -1,0 +1,39 @@
+
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ˆ¼’Î1
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Š¼’Î1
+g	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¼’Î1
+g	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8’¼’Î1
+g	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8•¼’Î1
+g	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8—¼’Î1
+h	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·©‘’Î1
+h	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¸©‘’Î1
+
+java:S13194"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‡Ğºï8˜¼’Î1
+’
+java:S1319w"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñŒÌÿÿÿÿÿ8™¼’Î1
+l
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(†¡…8¿”’Î1
+q
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ù’Ößúÿÿÿÿ8ª½’Î1
+l
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(®îªÒ8«½’Î1
+l
+java:S20959"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÔÄ²‰8ª‘’Î1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Õå½êúÿÿÿÿ8·½’Î1
+a
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(É®£8»½’Î1
+V
+java:S3400-"9Remove this method and declare a constant for this value.(§¼Éç8Ñ½’Î1
+K
+java:S1172,")Remove this unused method parameter "id".(â¡İ–ûÿÿÿÿ8Ó½’Î1
+V
+java:S34001"9Remove this method and declare a constant for this value.(§¼Éç8Ö½’Î1
+I
+java:S11720",Remove this unused method parameter "phone".(ğêÄ8×½’Î1
+a
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(É®£8ß½’Î1
+b
+java:S2147r"ECombine this catch with the one at line 112, which has the same body.(É®£8ò½’Î1
+c
+java:S2147Š"ECombine this catch with the one at line 136, which has the same body.(É®£8Õª‘’Î1
